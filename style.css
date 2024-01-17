@@ -20,6 +20,6 @@
     text-align: center;
 }
 
-.col-6 .row .col {
+.container .row .col .row .col {
     background-color: #00e165;
 }
